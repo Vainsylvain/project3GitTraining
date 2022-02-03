@@ -2,11 +2,8 @@ Saloute !
 
 Bienvenue dans cette session GitHub !
 
-oîsdfidsjvgfiqsdjvgijqsd$pviqs$pivgjqs$pibjpqsfbjpsfbjpfsbjpfsbpsbpfsjbpfqsjbpfjsbpfjqsbpfjqbpjfbpffpbnpfbnfqibni$fsbnpiSJG
-DµSG
-DG
-SGSFGHSFGH
 
-FSSFHSFH
+Test commit et push sur branche master.
 
-HFS
+Test Gym
+Modification finale
